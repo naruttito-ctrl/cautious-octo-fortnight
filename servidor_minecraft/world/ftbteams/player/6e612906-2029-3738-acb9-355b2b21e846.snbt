@@ -1,0 +1,17 @@
+{
+	id: "6e612906-2029-3738-acb9-355b2b21e846"
+	type: "player"
+	player_name: "Akadeo"
+	ranks: {
+		6e612906-2029-3738-acb9-355b2b21e846: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Akadeo"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFAE59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
